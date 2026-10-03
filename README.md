@@ -64,12 +64,10 @@ A quick greetings to prema at this point. we try to get any possible power out o
 
 At the end im trying consistently to create more and more compatibility for dif laptops / gpus / vbios / ec versions. at least the 4000gen should also be supportet but again this tool is mostly for exp user that known the hardware limits in particular they vrms and heat limits.
 
-sooooo here is the good thing:
-https://mega.nz/folder/PDxAUCTD#VXxBml-B-ITZhN9NboLkMA
-
-(had to change to mega caused by drive strikes xD)
 
 At least: dont try to burn ur laptops :D and if ur wanna follow the active development u could join the xmg discord into the A25 channel. Also if u have a 4000gen feel free to contact me
+
+
 
 
 LATEST UPDATE:
