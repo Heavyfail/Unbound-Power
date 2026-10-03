@@ -38,10 +38,10 @@ Now some pics of my tool.
 <img width="1080" height="568" alt="image" src="https://github.com/user-attachments/assets/50bd6620-73f2-4fca-b535-0e128deb11ab" />
 Mvolt + My tool + Msi Afterburner
 
+Im just startup my tool set the limits i want went over to afterburner and apply my fav custome curve and went over to mvolt to do some thin tuning for xbar and voltage.
+
 
 <img width="1080" height="522" alt="image" src="https://github.com/user-attachments/assets/a9372642-b079-4588-9849-d02973cf21ae" />
-
-Im just startup my tool set the limits i want went over to afterburner and apply my fav custome curve and went over to mvolt to do some thin tuning for xbar and voltage.
 
 <img width="1080" height="547" alt="image" src="https://github.com/user-attachments/assets/c3aaecce-e1fd-4de5-a6eb-0ac8fb530042" />
 
