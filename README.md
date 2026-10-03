@@ -66,6 +66,7 @@ At the end im trying consistently to create more and more compatibility for dif 
 
 sooooo here is the good thing:
 https://mega.nz/folder/PDxAUCTD#VXxBml-B-ITZhN9NboLkMA
+
 (had to change to mega caused by drive strikes xD)
 
 At least: dont try to burn ur laptops :D and if ur wanna follow the active development u could join the xmg discord into the A25 channel. Also if u have a 4000gen feel free to contact me
