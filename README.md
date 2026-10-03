@@ -73,6 +73,6 @@ At least: dont try to burn ur laptops :D and if ur wanna follow the active devel
 
 
 LATEST UPDATE:
-15:30 utc+2
+17:56 utc+2
 03.10.26
 
