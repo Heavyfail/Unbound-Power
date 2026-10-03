@@ -40,6 +40,15 @@ Mvolt + My tool + Msi Afterburner
 
 
 <img width="1080" height="522" alt="image" src="https://github.com/user-attachments/assets/a9372642-b079-4588-9849-d02973cf21ae" />
+<img width="1080" height="547" alt="image" src="https://github.com/user-attachments/assets/c3aaecce-e1fd-4de5-a6eb-0ac8fb530042" />
+<img width="1080" height="759" alt="image" src="https://github.com/user-attachments/assets/2e77b829-377a-473a-a235-5011dfb6e299" />
+<img width="1080" height="759" alt="image" src="https://github.com/user-attachments/assets/ff0672e1-7da2-490c-a0b5-e1f4db037c07" />
+<img width="1080" height="701" alt="image" src="https://github.com/user-attachments/assets/3db9c908-2a0f-4bd4-b0c3-3f9d103b2a2a" />
+<img width="1080" height="690" alt="image" src="https://github.com/user-attachments/assets/a3a98b2e-7ec0-404f-8a16-a83fefbbdb8f" />
+
+
+
+
 
 
 
