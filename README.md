@@ -35,9 +35,9 @@ this whole project is compiled into a portable exe that should get his own folde
 
 Now some pics of my tool.
 <img width="580" height="961" alt="image" src="https://github.com/user-attachments/assets/e6ac9b8a-bb87-4ea5-a76e-e841c115245c" />
-increased limits for normal profile
+
 <img width="572" height="981" alt="image" src="https://github.com/user-attachments/assets/69d98055-f697-4dc9-a9da-e25f2934fbe3" />
-xoc values
+
 <img width="1080" height="568" alt="image" src="https://github.com/user-attachments/assets/50bd6620-73f2-4fca-b535-0e128deb11ab" />
 Mvolt + My tool + Msi Afterburner
 
