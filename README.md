@@ -2,6 +2,9 @@
 A unlocking TGP tool for laptops
 
 
+"I will create through the weekend a full guide of this programm"
+
+
 A short introduction:
 
 Damn im not good in the explanation things but i give it a try.
